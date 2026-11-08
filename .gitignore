@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+backup/
+url_imports/
+ascii_icon_backups.sqlite3
+*.log
